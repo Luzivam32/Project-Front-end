@@ -1,7 +1,7 @@
 *{
     margin:0;
     padding: 0;
-    border;0;
+    border:0;
 }
 body{
     background: white;
@@ -80,7 +80,7 @@ input{
 }
 .img{
     width: 25%;
-    height: 50%%;
+    height: 50%;
     border: 1px;
     padding: 4px;
     
